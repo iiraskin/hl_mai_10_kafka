@@ -1,0 +1,4 @@
+/home/stud/hl_mai_10_kafka/build/CMakeFiles/rebuild_cache.dir
+/home/stud/hl_mai_10_kafka/build/CMakeFiles/edit_cache.dir
+/home/stud/hl_mai_10_kafka/build/CMakeFiles/event_server.dir
+/home/stud/hl_mai_10_kafka/build/CMakeFiles/event_writer.dir
